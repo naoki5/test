@@ -1,3 +1,7 @@
+p.back_image {
+background-image: url("LVP_home.png")
+}
+
 .btn-sf-like {
   position: relative;
   display: inline-block;
