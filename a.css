@@ -1,41 +1,13 @@
-p.123 {
-background-image: url("LVP_home.png")
+@charset "utf-8";
+* {
+        margin: 0;
+        padding: 0;
 }
-
-.btn-sf-like {
-  position: relative;
-  display: inline-block;
-  font-weight: bold;
-  text-decoration: none;
-  color: #FFF;
-  text-shadow: 0 0 5px rgba(255, 255, 255, 0.73);
-  padding: 0.3em 0.5em;
-  background: #00bcd4;
-  border-top: solid 3px #00a3d4;
-  border-bottom: solid 3px #00a3d4;
-  transition: .4s;
+div#header {
+	
 }
-
-.btn-sf-like:hover {
-  text-shadow: -6px 0px 15px rgba(255, 255, 240, 0.83),
-               6px 0px 15px rgba(255, 255, 240, 0.83);
-}
-
-.btn-circle-fishy {
-  display: inline-block;
-  text-decoration: none;
-  color: #FFF;
-  width: 100px;
-  height: 80px;
-  line-height: 80px;
-  border-radius: 50%;
-  text-align: center;
-  overflow: hidden;
-  background-image: linear-gradient(45deg, #709dff 0%, #91fdb7 100%);
-  transition: .4s;
-}
-
-.btn-circle-fishy:hover {
-  -webkit-transform: rotate(10deg);
-  transform: rotate(10deg);
+div#main01 {
+	width: 100%;
+	hight: 350px;
+	background-color: #EEEEEE;
 }
