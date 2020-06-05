@@ -8,6 +8,10 @@ div#header {
 }
 div#main01 {
 	width: 100%;
-	hight: 350px;
+	hight: 400px;
 	background-color: #EEEEEE;
+}
+
+div#789 {
+	margin-top: 50px;
 }
